@@ -1,1 +1,3 @@
-salom
+void main() {
+  print("Hi");
+}

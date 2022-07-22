@@ -1,1 +1,3 @@
-salom
+main() {
+  print("Salom, Programmer UZ");
+}
